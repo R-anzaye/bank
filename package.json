@@ -36,7 +36,11 @@
       "last 1 safari version"
     ]
   },
-  "resolutions": {
-    "postcss-safe-parser": "^5.0.2"
+  
+    "engines": {
+      "node": ">=18.0.0"
+    }
   }
-}
+  
+
+
